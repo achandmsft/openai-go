@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.49 (2025-01-21)
+
+Full Changelog: [v0.1.0-alpha.48...v0.1.0-alpha.49](https://github.com/openai/openai-go/compare/v0.1.0-alpha.48...v0.1.0-alpha.49)
+
+### Features
+
+* support deprecated markers ([#178](https://github.com/openai/openai-go/issues/178)) ([3d6f52f](https://github.com/openai/openai-go/commit/3d6f52f0f5b30f1f064cfbba8f61d28c1094bb0a))
+
 ## 0.1.0-alpha.48 (2025-01-21)
 
 Full Changelog: [v0.1.0-alpha.47...v0.1.0-alpha.48](https://github.com/openai/openai-go/compare/v0.1.0-alpha.47...v0.1.0-alpha.48)
